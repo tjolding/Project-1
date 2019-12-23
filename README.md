@@ -1,10 +1,13 @@
 # Project-1
-Predefined countdown timer resetting after finish, reset by command
-import existing countdown timer code 
-modify to repeat when finished
-modify to output on predefined times
-Modify to put in reset button to restart timer
-Add red yellow and green outputs with images
+Predefined countdown timer resetting after finish also reset by command
+
+import existing countdown timer code (complete) 
+modify to repeat when finished (need help here)
+modify to output on predefined times (need help here)
+Modify to put in reset button to restart timer (need help here)
+Add red, yellow and green outputs with images (need help here)
+Test Code (need help here)
+
 
 <script>
 var today = new Date();
