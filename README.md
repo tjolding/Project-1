@@ -1,6 +1,10 @@
 # Project-1
 Predefined countdown timer resetting after finish, reset by command
-Want to import existing countdown timer code and modify for my purposes
+import existing countdown timer code 
+modify to repeat when finished
+modify to output on predefined times
+Modify to put in reset button to restart timer
+Add red and green outputs with images
 
 <script>
 var today = new Date();
