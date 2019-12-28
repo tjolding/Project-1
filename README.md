@@ -1,5 +1,4 @@
 # Project-1
-# Project-1
 Predefined countdown timer resetting after finish, reset by command
 import existing countdown timer code (complete) 
 modify to repeat when finished (need help here)
