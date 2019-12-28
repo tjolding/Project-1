@@ -1,4 +1,4 @@
-# tim_project_1 html
+# project1
 Predefined countdown timer resetting after finish also reset by command
 
 import existing countdown timer code (complete) 
